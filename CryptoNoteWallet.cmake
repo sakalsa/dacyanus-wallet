@@ -2,3 +2,4 @@
 set(CN_PROJECT_NAME "dacyanus")
 set(CN_CURRENCY_DISPLAY_NAME "Dacyanus")
 set(CN_CURRENCY_TICKER "DACY")
+set(CN_VERSION 0.0.1 Beta)
